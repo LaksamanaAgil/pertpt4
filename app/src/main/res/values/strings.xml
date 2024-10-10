@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">ArtSpace Laksamana</string>
+    <string name="mtsummit">Mountain Summit</string>
+    <string name="mtsummit_year">1982</string>
+    <string name="mistywaterfall">Misty Waterfall</string>
+    <string name="mistywaterfall_year">1980</string>
+    <string name="meadowlake">Meadow Lake</string>
+    <string name="meadowlake_year">1982</string>
+    <string name="foresthill">Forest Hills</string>
+    <string name="foresthill_year">1989</string>
+</resources>
